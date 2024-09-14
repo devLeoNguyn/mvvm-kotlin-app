@@ -1,0 +1,24 @@
+# Binaries for Android
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Gradle files and build
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio generated files and directories
+.idea/
+*.iml
+captures/
+
+# External native build files
+.externalNativeBuild/
+.cxx/
+
+# MacOS specific files
+.DS_Store
